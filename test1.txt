@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is F42D-E7C8
+
+ Directory of C:\Users\vsingh5\Desktop\MyProject
+
+02/25/2020  05:47 PM    <DIR>          .
+02/25/2020  05:47 PM    <DIR>          ..
+02/25/2020  05:47 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  239,614,566,400 bytes free
